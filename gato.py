@@ -1,4 +1,4 @@
-x=["1","o","1","o","1","o","1","o","1","o"]
+x=["0","0","0","0","0","0","0","0","0","0"]
 posicion=int(input("ingresa la posicion de tiro"))
 turno=input("ingresa 'x' o 'o'")
 x[posicion]=turno
